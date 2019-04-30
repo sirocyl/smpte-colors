@@ -1,0 +1,8 @@
+#it's hackish but it works
+White   linguist-language=Click
+Yellow  linguist-language=Isabelle
+Cyan    linguist-language=WDL
+Green   linguist-language=OCaml
+Magenta linguist-language=ColdFusion
+Red     linguist-language=Red #lol
+Blue    linguist-language=Scheme
